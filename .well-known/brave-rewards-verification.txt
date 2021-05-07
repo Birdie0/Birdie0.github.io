@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: birdie0.github.io
+Token: d1b2cd8035aa68a3300e8f99caaeea3ea78788e7b778484ca746f9966f53b14e
